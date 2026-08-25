@@ -99,6 +99,11 @@ The Power BI dashboard provides interactive visualizations to explore IPL statis
 * Player performance
 * Season-wise trends
 
+## Power Bi Dashboard Preview
+
+<img width="1907" height="1020" alt="Screenshot 2026-08-25 144928" src="https://github.com/user-attachments/assets/18da65b3-6aa0-45b3-84f2-9cdf954a22e6" />
+
+
 ## 🔍 Example Business Questions
 
 This project helps answer questions such as:
