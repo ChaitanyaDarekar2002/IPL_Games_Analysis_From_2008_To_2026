@@ -119,44 +119,7 @@ This project helps answer questions such as:
 9. What are the most common toss decisions?
 10. Which teams have been the most consistent across IPL seasons?
 
-## 📂 Project Structure
 
-```text
-IPL-Games-Analysis-From-2008-To-2026/
-│
-├── Dataset/
-│   ├── matches.csv
-│   └── other_data_files.csv
-│
-├── SQL/
-│   └── IPL_Analysis.sql
-│
-├── PowerBI/
-│   └── IPL_Analysis.pbix
-│
-├── Images/
-│   └── dashboard.png
-│
-└── README.md
-```
-
-## 🚀 Project Workflow
-
-```text
-Raw IPL Data
-     ↓
-Data Cleaning
-     ↓
-SQL Data Analysis
-     ↓
-Data Transformation
-     ↓
-DAX Measures
-     ↓
-Power BI Dashboard
-     ↓
-Insights & Visualization
-```
 
 ## 💡 Insights
 
